@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Preview
+![image](https://github.com/007AnupamSharma/bmicalculator/assets/91144139/6d2549af-ef2d-403c-a12a-d78b880b60c6)
+![image](https://github.com/007AnupamSharma/bmicalculator/assets/91144139/6e0ce0b8-fb65-49e8-844e-c96f06e6cdd8)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
